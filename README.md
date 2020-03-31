@@ -1,2 +1,3 @@
 # Estudo
- Exercícios realizados em estudos
+ Exercícios realizados em estudos de cursos EAD.
+
